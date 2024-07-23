@@ -1,12 +1,12 @@
 # notas-atletas
 
-<h2>Nome do Projeto:</h2>
+# Nome do Projeto:
 <p>
   projetocertificacao1_devstart
 </p>
 <br><br>
 
-<h2>Descrição do Projeto:</h2>
+# Descrição do Projeto:
 <p>
   Projeto criado para obtenção de certificação no curso <b>DevStart Senai - Trilha 1 - Lógica de Programação</b>. 
   Trata-se de um algoritmo escrito em JavaScript que lê os nomes e as cinco notas dos atletas de uma competição 
@@ -14,7 +14,7 @@
 </p>
 <br><br>
 
-<h2>Começando:</h2>
+# Começando:
 Durante a elaboração do código utilizei um notebook Asus, Intel core i3, 1.5GHz, 4GB de ram, com sistema operacional 
 Windows 10 Home Single Language, x64. Usei ainda o Visual Studio Code, com as seguintes configurações:
 <br><br>
@@ -31,18 +31,18 @@ Windows 10 Home Single Language, x64. Usei ainda o Visual Studio Code, com as se
 </ul>
 <br><br>
 
-<h2>Desenvolvimento:</h2>
+# Desenvolvimento:
 Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num diretório de sua preferência:<br><br>
 <i>cd "diretório de sua preferência"</i><br>
 <i>git clone https://github.com/D0mAl3x/notas-atletas.git</i>
 <br><br>
 
-<h2>Construção:</h2>
+# Construção:
 Não se aplica. O projeto em tela é composto de um único arquivo .js que pode ser executado diretamente no Visual Studio Code
 ou em qualquer interpretador JavaScript.
 <br><br>
 
-<h2>Caracteristicas:</h2>
+# Características:
 O algoritmo contém um objeto da classe Atleta, criado para receber e manipular os dados de entrada, quais sejam, uma matriz de objetos 
 cujos atributos são o nome do atleta e as cinco notas obtidas (armazenadas em um array). Possui ainda quatro métodos:<br><br>
 <p>
@@ -57,26 +57,26 @@ cujos atributos são o nome do atleta e as cinco notas obtidas (armazenadas em u
 </p>
 <br><br> 
 
-<h2>Configuração:</h2>
+# Configuração:
 Para executar o projeto, não há configurações adicionais a realizar. Basta apenas carregar o arquivo em um editor que suporte
 a interpretação de scripts JS e executar o arquivo "notas-atletas.js".
 <br><br>
 
-<h2>Testes:</h2>
+# Testes:
 Os testes realizados no script estão devidamente identificados no arquivo. Eles começam a partir da linha 51. Adicionei 
 comentários que considerei pertinentes em alguns trechos do código.
 <br><br>
 
-<h2>Contribuições:</h2>
+# Contribuições:
 Contribuições são sempre bem-vindas! Para contribuir lembre-se sempre de adicionar testes unitários para as novas classes com 
 a devida documentação.
 <br><br>
 
-<h2>Links:</h2>
+# Links:
 Não há links a serem adicionados.
 <br><br>
 
-<h2>Licença:</h2>
+# Licença:
 Não se aplica.
 
 
